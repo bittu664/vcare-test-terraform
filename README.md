@@ -68,3 +68,6 @@ then i installed sonarqube with docker-compose and install jenkins for CI/CD
 
 ![Screenshot](./screenshots/cicd.png)
 
+**Sonarqube-dashboard**
+
+![Screenshot](./screenshots/sonarqube-dahboard.png)
