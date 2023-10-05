@@ -56,6 +56,13 @@ terraform apply plan.out
 
 ```
 
+### TO destroy the resources
+
+```
+terraform destroy
+```
+
+
 # FOR CI/CD PIPELINE AND SONARQUBE
 
 Here i created 2 ec2 server one for sonarqube and 2nd for jenkins-server
